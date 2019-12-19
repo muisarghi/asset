@@ -1,0 +1,37 @@
+Aplikasi Monitoring Operasional 
+
+framework	: codeigniter 
+nama folder	: myci
+nama database	: monpra (tidak ada password)
+
+
+Terdiri dari 2 user. Divisi dan KL
+
+Divisi:
+- Kantor Layanan
+- User KL
+
+
+KL:
+Monitoring Pagi
+- Pagi Hari
+- Siang Hari
+- Per 3 jam
+
+Monitoring Mingguan
+- UTLE
+- GPS
+- CCTV
+- Dana Operasional
+- Sanggahan
+
+
+
+USER DIVISI
+user	: 000000
+pass	: 123456
+
+
+USER KL (Malang)
+user	: malang01
+pass	: 123456

@@ -1,0 +1,8 @@
+USER DIVISI
+user	: 000000
+pass	: 123456
+
+
+USER KL (Malang)
+user	: malang01
+pass	: 123456
